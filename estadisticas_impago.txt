@@ -1,0 +1,4 @@
+Probabilidad media de impago: 0.2112
+Mediana de la probabilidad de impago: 0.1751
+Desviación estándar de la probabilidad de impago: 0.1332
+Porcentaje de créditos con alto riesgo de impago: 15.18%
